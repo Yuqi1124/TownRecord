@@ -1,4 +1,4 @@
-# Source & Contributor
+# Source & Contributors
 
 This is a record for a team project. The source code is from NEU CS4530 (open source). Team members include Jingquan Sun, John Lam, Morgan Rosenkranz, Yueqi Mao.
 
