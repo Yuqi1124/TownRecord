@@ -1,3 +1,7 @@
+# Source & Contributor
+
+This is a record for a team project. The source code is from NEU CS4530 (open source). Team members include Jingquan Sun, John Lam, Morgan Rosenkranz, Yueqi Mao.
+
 # Covey.Town
 
 Covey.Town provides a virtual meeting space where different groups of people can have simultaneous video calls, allowing participants to drift between different conversations, just like in real life.
